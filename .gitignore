@@ -1,0 +1,14 @@
+ass
+*.apk
+bin/
+gen/
+*.settings/
+proguard/
+target
+*.project
+*.classpath
+.settings
+Servers/
+.metadata/
+.recommenders/
+generatorSqlmapCustom/
